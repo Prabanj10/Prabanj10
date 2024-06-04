@@ -4,6 +4,7 @@
 🌱 I am a self-taught developer who loves to solve problems digitally using top-notch technologies. I specialize in web technologies, am curious about developing scalable distributed systems, and care deeply about writing readable and maintainable code.
 
 🛠 Skills
+
 Languages: JavaScript, HTML, CSS, C
 
 Frontend Frameworks/Libraries: React.js, Bootstrap, Tailwind CSS
@@ -16,5 +17,6 @@ Other: Git
 
 
 📫 Contact
+
 Email: prabanjkp@gmail.com
 LinkedIn: www.linkedin.com/in/prabanjk
