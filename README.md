@@ -5,10 +5,15 @@
 
 🛠 Skills
 Languages: JavaScript, HTML, CSS, C
+
 Frontend Frameworks/Libraries: React.js, Bootstrap, Tailwind CSS
+
 Backend Frameworks: Node.js, Express.js
+
 Databases: MongoDB, MySQL
+
 Other: Git
+
 
 📫 Contact
 Email: prabanjkp@gmail.com
