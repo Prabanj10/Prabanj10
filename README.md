@@ -1,4 +1,4 @@
-👋 Hi, I’m Prabanj K :)
+👋 Hi, I’m Prabanj K 
 
 👀 I’m interested in software development.
 
